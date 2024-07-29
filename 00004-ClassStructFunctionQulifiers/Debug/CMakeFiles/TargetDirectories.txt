@@ -1,0 +1,3 @@
+D:/Engineering/Software/SyntaxSphere/C++/class_struct_function_qulifiers/Debug/CMakeFiles/MAIN.dir
+D:/Engineering/Software/SyntaxSphere/C++/class_struct_function_qulifiers/Debug/CMakeFiles/ALL_BUILD.dir
+D:/Engineering/Software/SyntaxSphere/C++/class_struct_function_qulifiers/Debug/CMakeFiles/ZERO_CHECK.dir

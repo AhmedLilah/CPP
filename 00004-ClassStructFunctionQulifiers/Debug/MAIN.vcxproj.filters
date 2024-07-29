@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Engineering\Software\SyntaxSphere\C++\class_struct_function_qulifiers\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Engineering\Software\SyntaxSphere\C++\class_struct_function_qulifiers\include.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Engineering\Software\SyntaxSphere\C++\class_struct_function_qulifiers\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5C54C68D-73BE-331E-AA19-7FF399544822}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

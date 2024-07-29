@@ -1,0 +1,5 @@
+-std=c17
+-std=c++2b
+-O3
+-Weverthing
+-g

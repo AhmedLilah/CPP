@@ -1,0 +1,5 @@
+-std=c++2b
+-stdlib=libc++
+-O3
+-Weverthing
+-g

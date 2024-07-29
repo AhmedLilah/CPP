@@ -1,0 +1,5 @@
+-std=c++2b
+-O3
+-g
+-Wall
+-IC:/src/vcpkg/installed/x64-windows/include
